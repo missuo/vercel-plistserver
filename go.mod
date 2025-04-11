@@ -4,7 +4,7 @@ go 1.24.2
 
 require (
 	github.com/gin-gonic/gin v1.10.0
-	github.com/missuo/plistserver v0.0.0-20250411034337-9cd1f844a8e3
+	github.com/missuo/plistserver v0.0.0-20250411042334-7ee99980d9b5
 )
 
 require (
