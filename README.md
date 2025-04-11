@@ -13,6 +13,8 @@ Plist Server is a simple server that designed for [khcrysalis/Feather](https://g
 
 3. Choose "Use Custom Server"
 
+![](./screenshots/screenshot1.jpeg)
+
 4. Turn on "Online Install Method"
 
 5. Restart Feather App
@@ -22,3 +24,4 @@ Plist Server is a simple server that designed for [khcrysalis/Feather](https://g
 ## Credits
 
 - [missuo/plistserver](https://github.com/missuo/plistserver)
+- [nekohaxx/plistserver](https://github.com/nekohaxx/plistserver)
