@@ -11,7 +11,7 @@ Plist Server is a simple server that designed for [khcrysalis/Feather](https://g
 
 2. Choose "Server Options"
 
-3  Choose "Use Custom Server"
+3. Choose "Use Custom Server"
 
 4. Turn on "Online Install Method"
 
