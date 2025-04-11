@@ -1,6 +1,6 @@
 # Plist Server for Vercel
 
-Plist Server is a simple server that designed for [khcrysalis/plistserver](https://github.com/khcrysalis/plistserver) and deployed on Vercel.
+Plist Server is a simple server that designed for [khcrysalis/Feather](https://github.com/khcrysalis/Feather) and deployed on Vercel.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmissuo%2Fvercel-plistserver)
 
